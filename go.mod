@@ -1,3 +1,3 @@
-module github.com/ledongthuc/pdf
+module github.com/chenjinya/go-pdf
 
-go 1.24.1
+go 1.22
